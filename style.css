@@ -26,5 +26,18 @@
         padding: 24px 0;
         }
         .escola-conteudo{
-        width: 35%;
+        width: 50%;
+        }
+        .escola-titulo{
+            padding: 20px 0;
+        }
+        .estudante-imagem{
+            width: 120px;
+        }
+        .estudande-icone{
+            width: 24px;
+        }
+        .estudante-div{
+            text-align: center;
+            padding: 50px 0;
         }
